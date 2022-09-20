@@ -1,4 +1,4 @@
-### Window 10
+# Window 10
 
 ## Start
 * Make packages
@@ -25,8 +25,8 @@ $ cd ..
 $ catkin_make
 ```
 
-## Usage(UR3)
-# With Simulation
+# Usage(UR3)
+## With Simulation
 ```
 # launch 1
 # activate the workspace (ie: source it)
@@ -51,9 +51,11 @@ $ source devel/setup.bash
 
 $ cd src/fmauch_universal_robot/ur3_moveit_config/launch
 $ roslaunch moveit_rviz.launch config:=true
+```
 
+* Download [Python script](https://drive.google.com/file/d/18KZmlpGgX2u60Sf9-yZ36CsdoboEqMlv/view?usp=sharing) in robotics_ws
+
+```
 # launch 4
-
-
-
+$ python ros_test
 ```
