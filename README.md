@@ -52,10 +52,11 @@ $ cd src/fmauch_universal_robot/ur3_moveit_config/launch
 $ roslaunch moveit_rviz.launch config:=true
 ```
 
-* Download [Python script](https://drive.google.com/file/d/18KZmlpGgX2u60Sf9-yZ36CsdoboEqMlv/view?usp=sharing) in "robotics_ws".
+* Download [Python script](https://drive.google.com/file/d/18KZmlpGgX2u60Sf9-yZ36CsdoboEqMlv/view?usp=sharing) in "robotics_ws\src".
 
 * launch 4
 ```
+$ cd robotics_ws\src
 $ python ros_test
 ```
 
@@ -90,9 +91,10 @@ $ cd src/fmauch_universal_robot/ur3_moveit_config/launch
 $ roslaunch moveit_rviz.launch config:=true
 ```
 
-* Download [Python script](https://drive.google.com/file/d/18KZmlpGgX2u60Sf9-yZ36CsdoboEqMlv/view?usp=sharing) in "robotics_ws".
+* Download [Python script](https://drive.google.com/file/d/18KZmlpGgX2u60Sf9-yZ36CsdoboEqMlv/view?usp=sharing) in "robotics_ws\src".
 
 * launch 4
 ```
+$ cd robotics_ws\src
 $ python ros_test
 ```
