@@ -1,6 +1,6 @@
 # Window 10
 
-## Start
+### Start
 * Make packages
 ```
 $ cd c:\opt\ros\melodic
@@ -25,8 +25,8 @@ $ cd ..
 $ catkin_make
 ```
 
-# Usage(UR3)
-## With Simulation
+## Usage(UR3)
+### With Simulation
 ```
 # launch 1
 # activate the workspace (ie: source it)
