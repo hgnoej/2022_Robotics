@@ -26,9 +26,7 @@ $ catkin_make
 ```
 
 ## Usage
-If you use ur5, change ur3 -> ur5.
-If you use ur5e, change ur3 -> ur5e.
-If you use ur10, change ur3 -> ur10.
+If you use ur5 or ur5e or ur10, change ur3 -> ur5 or ur5e or ur10.
 
 ### With Simulation
 ```
@@ -63,9 +61,7 @@ $ python ros_test
 ```
 
 ### With Real Robot
-If you use ur5, change ur3 -> ur5.
-If you use ur5e, change ur3 -> ur5e.
-If you use ur10, change ur3 -> ur10.
+If you use ur5 or ur5e or ur10, change ur3 -> ur5 or ur5e or ur10.
 
 * If you choose UR model, you have to UR calibration.
 
@@ -93,7 +89,7 @@ $ cd src/fmauch_universal_robot/ur3_moveit_config/launch
 $ roslaunch moveit_rviz.launch config:=true
 ```
 
-* Download [Python script](https://drive.google.com/file/d/18KZmlpGgX2u60Sf9-yZ36CsdoboEqMlv/view?usp=sharing) in robotics_ws
+* Download [Python script](https://drive.google.com/file/d/18KZmlpGgX2u60Sf9-yZ36CsdoboEqMlv/view?usp=sharing) in "robotics_ws".
 
 ```
 # launch 4
